@@ -15,7 +15,7 @@ This exercise hes been done for assignment([git assignment](https://github.com/c
 - The board size is not limited in advance, but it can be assumed that all the ads will be concentrated in the same area - the distances between ads will not be very large.
 
 ## Simple example :
-You can change the main in Demo.cpp
+You can change the main in Demo.cpp, and use the the command `make` in terminal
 ```c++
 #include "Board.hpp"
 #include <iostream>
